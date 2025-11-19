@@ -10,3 +10,8 @@ Energetic Indian male English voice, natural Indian accent, expressive and engag
 
 
 """
+3.# -----------------------
+description = """
+ Hindi male voice, expressive, clear Indian accent, native Hindi prosody, natural pauses, and smooth pronunciation of Hindi phonetics.
+
+"""
