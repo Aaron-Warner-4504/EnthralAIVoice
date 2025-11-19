@@ -15,3 +15,6 @@ description = """
  Hindi male voice, expressive, clear Indian accent, native Hindi prosody, natural pauses, and smooth pronunciation of Hindi phonetics.
 
 """
+4. recommended for hindi male temprature 0.85:
+description="""Hindi male voice with a deep,fast pace, smooth tone and authentic Indian prosody. Clear but gentle pronunciation, relaxed pacing, and natural emotional expression like a real Hindi speaker. Slight variations in pitch, natural slight pauses between phrases, and a warm, human sound without robotic sharpness. Fully Hindi accent with no foreign influence.
+"""
