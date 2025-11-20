@@ -12,7 +12,7 @@ Energetic Indian male English voice, natural Indian accent, expressive and engag
 """
 3.# -----------------------
 description = """
- Hindi male voice, expressive, clear Indian accent, native Hindi prosody, natural pauses, and smooth pronunciation of Hindi phonetics.
+ Hindi male voice, expressive, clear Indian accent, native Hindi prosody, natural pauses, and smooth pronunciation of Hindi phonetics.(temp 0.65)
 
 """
 4. recommended for hindi male temprature 0.85:
