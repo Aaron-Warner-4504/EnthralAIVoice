@@ -7,7 +7,7 @@ Indian English neutral voice, natural Indian accent, clear pronunciation, medium
 
 2.description = """
 Energetic Indian male English voice, natural Indian accent, expressive and engaging tone, clear articulation, slight upward intonation at phrase endings, and smooth conversational flow with Indian prosody.
-
+(temp 0.55)
 
 """
 3.# -----------------------
